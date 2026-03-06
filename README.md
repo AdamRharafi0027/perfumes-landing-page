@@ -1,4 +1,4 @@
-# perfumes PARFUMES LANDING PAGE
+# PARFUMES LANDING PAGE
     ```
 └── 📁perfumes-landing-page
     └── 📁app
