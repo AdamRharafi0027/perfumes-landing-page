@@ -1,5 +1,5 @@
 # PARFUMES LANDING PAGE
-    ```
+```
 └── 📁perfumes-landing-page
     └── 📁app
         ├── globals.css
